@@ -110,11 +110,11 @@ const PrivacyPolicy = () => {
             <p>
               <strong>Website</strong> refers to bharat bazzar, accessible from{" "}
               <a
-                href="https://bharatbazzar.co/"
+                href="https://hindustan-services.co/"
                 rel="external nofollow noopener"
                 target="_blank"
               >
-                bharatbazzar.co
+                hindustan-services.co
               </a>
             </p>
           </li>
@@ -462,7 +462,7 @@ const PrivacyPolicy = () => {
         </p>
         <p>
           If you want to change or delete details for which there is no method
-          listed on our website you can <a href="https://bharatbazzar.co/contact-us">contact us</a>
+          listed on our website you can <a href="https://hindustan-services.co/contact-us">contact us</a>
         </p>
         <p>
           Please note, however, that We may need to retain certain information
@@ -555,7 +555,7 @@ const PrivacyPolicy = () => {
           us:
         </p>
         <ul>
-          <li>By email: help.bharatbazzar@gmail.com</li>
+          <li>By email: help.hindustan-services@gmail.com</li>
           <li>
             You can also contact us by visiting{" "}
             <a href="/contact-us">Contact Us</a>

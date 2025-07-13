@@ -25,7 +25,7 @@ export default function Contact() {
               <div className="d-flex">
                 <div className="links-wrapper">
                   <p className="flex">
-                    <CorporateFareIcon /> Miglani Retail
+                    <CorporateFareIcon /> ABC Retail
                   </p>
                   <p className="flex">
                     <PlaceIcon /> {staticData.contactAddress}

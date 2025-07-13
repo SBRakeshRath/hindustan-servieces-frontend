@@ -117,7 +117,7 @@ export default function Footer() {
           <div className="d-flex">
             <div className="links-wrapper">
               <p>
-                <CorporateFare /> Miglani Retail
+                <CorporateFare /> It's not a MNC
               </p>
               <p>
                 <PlaceIcon /> {staticData.contactAddress}
@@ -200,10 +200,10 @@ export default function Footer() {
         </div>
       </div>
       <div className="credit">
-        Copyright © 2024 bharatbazzar (Miglani Retail), All rights reserved |
+        Copyright © 2025 hindustan-services , All rights reserved |
         Designed & Developed by{" "}
-        <a href="https://therankshell.com/" className="creditLink">
-          Rankshell
+        <a href="https://pixismith.com/" className="creditLink">
+          Pixismith
         </a>
       </div>
     </footer>

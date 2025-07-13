@@ -67,7 +67,7 @@ export default function BusinessPayment() {
 
     const options = {
       key: import.meta.env.VITE_RAZOR_PAY_KEY_ID,
-      name: "Bharatbazzar",
+      name: "hindustan-services",
       description: paymentOptionDetails.description,
       image: import.meta.env.VITE_BUSINESS_LOGO,
       subscription_id: paymentId,
