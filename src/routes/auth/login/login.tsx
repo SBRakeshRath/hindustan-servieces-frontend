@@ -39,7 +39,10 @@ export default function Login() {
     retry: false,
     queryFn: async () => {
       try {
-        const res = await axios.post(`${backendURL}/auth/login`, formData);
+        const res = await axios.post(`${backendURL}/auth/login`, {
+          emailOrPhone: formData?.email,
+          password: formData?.password,
+        });
 
         console.log("success", res);
         const token = res.data.token;
